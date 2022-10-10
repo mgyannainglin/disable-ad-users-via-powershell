@@ -2,7 +2,7 @@
 ### List the user with samAccountName
 1. Type below command in powershell with administrator mode
 ```
- Get-ADUser -Filter * | Select-Object Name, SAMAccountName | Export-Csv -Path E:\samaccountname.csv -NoTypeInformation
+ Get-ADUser -Filter * | Select-Object Name, SAMAccountName | Export-Csv -Path d:\samaccountname.csv -NoTypeInformation
 ```
 2. Filter the users that you want to disable and add to csv file.
 
