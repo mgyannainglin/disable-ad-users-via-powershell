@@ -10,5 +10,5 @@
 ```
 .\disable-the-users-samaccount.ps1
 ```
-Note: E is the drive letter that your **csv** file exist.
+Note: ***d*** is the drive letter that your **csv** file exist.
 ##### maintainer: yannainglin
